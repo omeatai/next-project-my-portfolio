@@ -8,7 +8,12 @@ This is a modern portfolio web application built with Next.js.
 
 ## Project Steps (Tutorial)
 
-<article>
+<details>
 <summary>1. Create Next App</summary>
 
-# #End</article>
+# #End</details>
+
+<details>
+<summary>2. Create Next App</summary>
+
+# #End</details>
