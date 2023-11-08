@@ -106,4 +106,9 @@ npm i next-themes @headlessui/react @prisma/client next-sanity
 
 # Create Nav Button
 
+### [https://github.com/omeatai/next-project-my-portfolio/commit/075bde05bde6de022c48fe9dbace355857fbbf29](https://github.com/omeatai/next-project-my-portfolio/commit/075bde05bde6de022c48fe9dbace355857fbbf29)
+
+<img width="1125" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/43c3e49a-61ee-455f-bfba-029c64e941bc">
+<img width="1203" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/5f391bfd-93b1-4bc5-8f19-8e772cc99541">
+
 # #End</details>
