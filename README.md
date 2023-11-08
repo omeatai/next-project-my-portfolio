@@ -34,6 +34,43 @@ npx create-next-app@13 <app-name> && cd <app-name> && npm i next@13
 # #End</details>
 
 <details>
-<summary>2. Create Next App</summary>
+<summary>2. Install Dependencies </summary>
+
+### [https://github.com/omeatai/next-project-my-portfolio/commit/fe3adb5c290d2200f53d4a0cf42646da86d18410](https://github.com/omeatai/next-project-my-portfolio/commit/fe3adb5c290d2200f53d4a0cf42646da86d18410)
+
+# Install Prisma, Tailwindcss Typography and Forms
+
+```x
+npm i -D prisma @tailwindcss/typography @tailwindcss/forms
+```
+
+# Install NextJS Themes, React Headless UI, Prisma Client, Next Sanity
+
+```x
+npm i next-themes @headlessui/react @prisma/client next-sanity
+```
+
+# #End</details>
+
+<details>
+<summary>3. Set Tailwindcss Plugin</summary>
+
+### [https://github.com/omeatai/next-project-my-portfolio/commit/e7a8547e47271d0afb127be699d444a6d02be2a8](https://github.com/omeatai/next-project-my-portfolio/commit/e7a8547e47271d0afb127be699d444a6d02be2a8)
+
+<img width="1122" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/1310751b-a9e8-4718-b491-ccfb6f237573">
+
+# #End</details>
+
+<details>
+<summary>4. Remove default style from globals</summary>
+
+### [https://github.com/omeatai/next-project-my-portfolio/commit/8b87a614b45b2173060d34d5cbc5761ee58c68f7](https://github.com/omeatai/next-project-my-portfolio/commit/8b87a614b45b2173060d34d5cbc5761ee58c68f7)
+
+<img width="1122" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/e0681075-78cd-4f83-aef4-ca41aaf03014">
+
+# #End</details>
+
+<details>
+<summary>5. Create Next App</summary>
 
 # #End</details>
