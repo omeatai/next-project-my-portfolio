@@ -82,6 +82,8 @@ npm i next-themes @headlessui/react @prisma/client next-sanity
 # #End</details>
 
 <details>
-<summary>6. S </summary>
+<summary>6. Create Nav Contents </summary>
+
+# Create Nav Contents
 
 # #End</details>
