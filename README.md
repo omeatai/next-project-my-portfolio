@@ -73,4 +73,15 @@ npm i next-themes @headlessui/react @prisma/client next-sanity
 <details>
 <summary>5. Setup Home Layout and Page</summary>
 
+### [https://github.com/omeatai/next-project-my-portfolio/commit/88fdd8edeebf42b84af0e92bc80b2e7d8591e5fc](https://github.com/omeatai/next-project-my-portfolio/commit/88fdd8edeebf42b84af0e92bc80b2e7d8591e5fc)
+
+<img width="1122" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/e00359b6-67ca-4895-874e-b689d58b38df">
+<img width="1122" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/0b198d51-d98f-4f35-bfef-35f8c3da4cc4">
+<img width="1268" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/e7302904-3909-4842-8150-abd9cd8316f4">
+
+# #End</details>
+
+<details>
+<summary>6. S </summary>
+
 # #End</details>
