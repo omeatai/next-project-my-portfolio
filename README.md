@@ -1,10 +1,8 @@
 # Next.js 13 Project - My Modern Portfolio App
 
-##### Built by Ifeanyi Omeata
-
 ## Introduction
 
-This is a modern portfolio web application built with Next.js.
+This is a modern portfolio web application built with Next.js by Ifeanyi Omeata.
 
 ## Project Steps (Tutorial)
 
