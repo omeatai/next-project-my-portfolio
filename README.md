@@ -112,3 +112,10 @@ npm i next-themes @headlessui/react @prisma/client next-sanity
 <img width="1203" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/5f391bfd-93b1-4bc5-8f19-8e772cc99541">
 
 # #End</details>
+
+<details>
+<summary>8. Create Nav Open Panel </summary>
+
+# Create Nav Open Panel
+
+# #End</details>

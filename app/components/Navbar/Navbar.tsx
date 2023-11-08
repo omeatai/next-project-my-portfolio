@@ -14,6 +14,12 @@ export default function Navbar() {
       passive:
         "border-transparent text-gray-500 dark:text-gray-300 dark:hover:text-white inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium",
     },
+    panel: {
+      active:
+        "bg-teal-50 border-teal-500 text-teal-500 block pl-3 pr-4 py-2 border-l-4 text-base font-medium dark:bg-gray-800",
+      passive:
+        "border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-teal-500 block pl-3 pr-4 py-2 dark:hover:bg-gray-700 border-l-4 text-base font-medium dark:text-white",
+    },
   };
 
   return (
@@ -21,8 +27,9 @@ export default function Navbar() {
       {({ open }) => (
         <>
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="flex justify-between h-16">
-              <div className="flex justify-between w-full">
+            <div className="flex justify-between h-16 ">
+              {/* Logo and Nav Menus for Tablet and Desktop */}
+              <div className="flex justify-between w-full ">
                 <div className="flex items-center">
                   <Link href="/">
                     <h1 className="text-2xl font-medium">
@@ -67,6 +74,7 @@ export default function Navbar() {
                 </div>
               </div>
 
+              {/* Nav Button for Mobile */}
               <div className="-mr-4 flex items-center sm:hidden">
                 <Disclosure.Button className="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-teal-500 dark:hover:bg-gray-800">
                   {open ? (
@@ -104,6 +112,43 @@ export default function Navbar() {
               </div>
             </div>
           </div>
+
+          {/* Nav Panel for Mobile */}
+          <Disclosure.Panel className="sm:hidden">
+            <div className="pt-2 pb-3 space-y-1">
+              <Link
+                href="/"
+                prefetch
+                className={`${
+                  pathname == "/" ? styles.panel.active : styles.panel.passive
+                } `}
+              >
+                Home
+              </Link>
+              <Link
+                href="/guestbook"
+                prefetch
+                className={`${
+                  pathname == "/guestbook"
+                    ? styles.panel.active
+                    : styles.panel.passive
+                } `}
+              >
+                Guestbook
+              </Link>
+              <Link
+                href="/projects"
+                prefetch
+                className={`${
+                  pathname == "/projects"
+                    ? styles.panel.active
+                    : styles.panel.passive
+                } `}
+              >
+                Projects
+              </Link>
+            </div>
+          </Disclosure.Panel>
         </>
       )}
     </Disclosure>

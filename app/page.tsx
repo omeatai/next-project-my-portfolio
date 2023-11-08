@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Navbar from "./components/Navbar/Navbar";
 
 export default function Home() {
@@ -7,9 +6,9 @@ export default function Home() {
       <nav>
         <Navbar />
       </nav>
-      <main>
+      <section className="mx-4 sm:mx-8">
         <h1>This is the Index Page.</h1>
-      </main>
+      </section>
     </>
   );
 }
