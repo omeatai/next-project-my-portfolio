@@ -81,6 +81,8 @@ npm i next-themes @headlessui/react @prisma/client next-sanity
 
 ### [https://github.com/omeatai/next-project-my-portfolio/commit/88fdd8edeebf42b84af0e92bc80b2e7d8591e5fc](https://github.com/omeatai/next-project-my-portfolio/commit/88fdd8edeebf42b84af0e92bc80b2e7d8591e5fc)
 
+### [https://tailwindcss.com/docs/installation](https://tailwindcss.com/docs/installation)
+
 <img width="1122" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/e00359b6-67ca-4895-874e-b689d58b38df">
 <img width="1122" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/0b198d51-d98f-4f35-bfef-35f8c3da4cc4">
 <img width="1268" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/e7302904-3909-4842-8150-abd9cd8316f4">
@@ -93,6 +95,10 @@ npm i next-themes @headlessui/react @prisma/client next-sanity
 # Create Nav Contents
 
 ### [https://github.com/omeatai/next-project-my-portfolio/commit/4f6667f10ef540fd5612f2e548d63f5e35110e4e](https://github.com/omeatai/next-project-my-portfolio/commit/4f6667f10ef540fd5612f2e548d63f5e35110e4e)
+
+### [https://headlessui.com/react/disclosure](https://headlessui.com/react/disclosure)
+
+### [https://tailwindcss.com/docs/installation](https://tailwindcss.com/docs/installation)
 
 <img width="1129" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/a88cd0d6-fce9-4443-9f6f-9a9c36bc64af">
 <img width="1129" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/519c309d-be36-45c3-80d6-116cc3c5e864">
@@ -107,6 +113,15 @@ npm i next-themes @headlessui/react @prisma/client next-sanity
 # Create Nav Button
 
 ### [https://github.com/omeatai/next-project-my-portfolio/commit/075bde05bde6de022c48fe9dbace355857fbbf29](https://github.com/omeatai/next-project-my-portfolio/commit/075bde05bde6de022c48fe9dbace355857fbbf29)
+
+### [https://heroicons.com/](https://heroicons.com/)
+
+### [https://headlessui.com/react/disclosure](https://headlessui.com/react/disclosure)
+
+### [https://tailwindcss.com/docs/installation](https://tailwindcss.com/docs/installation)
+
+<img width="1184" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/f020d70e-6e77-4bf6-aee8-50f689fa5a27">
+<img width="1184" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/a6f8cc89-2758-4cdb-b4c2-c9dbb9fb5e4a">
 
 <img width="1125" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/43c3e49a-61ee-455f-bfba-029c64e941bc">
 <img width="1203" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/5f391bfd-93b1-4bc5-8f19-8e772cc99541">
