@@ -53,7 +53,7 @@ npm i next-themes @headlessui/react @prisma/client next-sanity
 # #End</details>
 
 <details>
-<summary>3. Set Tailwindcss Plugin</summary>
+<summary>3. Set Tailwindcss Plugins</summary>
 
 ### [https://github.com/omeatai/next-project-my-portfolio/commit/e7a8547e47271d0afb127be699d444a6d02be2a8](https://github.com/omeatai/next-project-my-portfolio/commit/e7a8547e47271d0afb127be699d444a6d02be2a8)
 
