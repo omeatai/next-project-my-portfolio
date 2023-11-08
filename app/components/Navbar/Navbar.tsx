@@ -30,39 +30,77 @@ export default function Navbar() {
                     </h1>
                   </Link>
                 </div>
+                <div className="hidden sm:ml-6 sm:flex sm:space-x-8 sm:items-center">
+                  <Link
+                    href="/"
+                    prefetch
+                    className={`${
+                      pathname === "/"
+                        ? styles.link.active
+                        : styles.link.passive
+                    }`}
+                  >
+                    Home
+                  </Link>
+                  <Link
+                    href="/guestbook"
+                    prefetch
+                    className={`${
+                      pathname === "/guestbook"
+                        ? styles.link.active
+                        : styles.link.passive
+                    }`}
+                  >
+                    GuestBook
+                  </Link>
+                  <Link
+                    href="/projects"
+                    prefetch
+                    className={`${
+                      pathname === "/projects"
+                        ? styles.link.active
+                        : styles.link.passive
+                    }`}
+                  >
+                    Projects
+                  </Link>
+                </div>
               </div>
-              <div className="hidden sm:ml-6 sm:flex sm:space-x-8 sm:items-center">
-                <Link
-                  href="/"
-                  prefetch
-                  className={`${
-                    pathname === "/" ? styles.link.active : styles.link.passive
-                  }`}
-                >
-                  Home
-                </Link>
-                <Link
-                  href="/guestbook"
-                  prefetch
-                  className={`${
-                    pathname === "/guestbook"
-                      ? styles.link.active
-                      : styles.link.passive
-                  }`}
-                >
-                  GuestBook
-                </Link>
-                <Link
-                  href="/projects"
-                  prefetch
-                  className={`${
-                    pathname === "/projects"
-                      ? styles.link.active
-                      : styles.link.passive
-                  }`}
-                >
-                  Projects
-                </Link>
+
+              <div className="-mr-4 flex items-center sm:hidden">
+                <Disclosure.Button className="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-teal-500 dark:hover:bg-gray-800">
+                  {open ? (
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      strokeWidth={1.5}
+                      stroke="currentColor"
+                      className="w-6 h-6"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M6 18L18 6M6 6l12 12"
+                      />
+                    </svg>
+                  ) : (
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      strokeWidth={1.5}
+                      stroke="currentColor"
+                      className="w-6 h-6"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
+                      />
+                    </svg>
+                  )}
+                </Disclosure.Button>
               </div>
             </div>
           </div>

@@ -100,3 +100,10 @@ npm i next-themes @headlessui/react @prisma/client next-sanity
 <img width="1241" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/d3d62e86-0e60-49b4-a66d-ba8173fa647a">
 
 # #End</details>
+
+<details>
+<summary>7. Create Nav Button </summary>
+
+# Create Nav Button
+
+# #End</details>
