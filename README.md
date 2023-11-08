@@ -71,6 +71,6 @@ npm i next-themes @headlessui/react @prisma/client next-sanity
 # #End</details>
 
 <details>
-<summary>5. Create Next App</summary>
+<summary>5. Setup Home Layout and Page</summary>
 
 # #End</details>
