@@ -149,4 +149,32 @@ npm i next-themes @headlessui/react @prisma/client next-sanity
 
 # Create Dark Mode Switch
 
+### [https://github.com/omeatai/next-project-my-portfolio/commit/b55237499ebb7a9d3de84453322d44ce7b95a7a3](https://github.com/omeatai/next-project-my-portfolio/commit/b55237499ebb7a9d3de84453322d44ce7b95a7a3)
+
+<img width="1239" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/54fb8f79-47ea-4ec2-bfd0-b606543125ab">
+<img width="1127" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/f6678b42-56e2-41e8-a10c-fe7a301e9246">
+<img width="1127" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/2cf50318-09e3-464f-b4fe-bd65c613898d">
+<img width="1127" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/86bd0adc-1131-41ae-aff2-020cf8c13632">
+<img width="1127" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/60a0b74a-007e-4b30-9079-6741437498f0">
+<img width="1127" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/7cca6543-e5f4-4cfa-8afa-99ef4eeffed2">
+<img width="1239" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/d6c4f884-867d-41e6-8327-bc459c6389b3">
+<img width="1239" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/cc19a34c-c429-4464-b3ad-ab171dbba25f">
+<img width="1239" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/2a5a58cc-8e03-4f1d-8a25-97a70e233f4d">
+<img width="1239" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/05dd4381-8cc5-49f6-a657-3b1f1077d2c3">
+
 # #End</details>
+
+<details>
+<summary>10. Customise Profile on Home Page </summary>
+
+# Customise Profile on Home Page
+
+# #End</details>
+
+
+
+
+
+
+
+
