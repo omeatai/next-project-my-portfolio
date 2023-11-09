@@ -169,6 +169,20 @@ npm i next-themes @headlessui/react @prisma/client next-sanity
 
 # Customise Profile on Home Page
 
+### [https://github.com/omeatai/next-project-my-portfolio/commit/ac47c962a9e5cf452ad195c981214498b281c840](https://github.com/omeatai/next-project-my-portfolio/commit/ac47c962a9e5cf452ad195c981214498b281c840)
+
+<img width="1123" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/b5439484-eb57-47cb-9af4-d28dada939af">
+<img width="1408" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/ac7c6c94-c5b1-4f2d-a5f7-1609c75f9478">
+<img width="1227" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/7af0fd3c-0222-48e9-a6a1-0fff34490e20">
+<img width="1235" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/6fc0f56f-ae03-41b4-ac82-8594416c5040">
+
+# #End</details>
+
+<details>
+<summary>11. Guestbook - Configure Planetscale Database </summary>
+
+# Guestbook - Configure Planetscale Database
+
 # #End</details>
 
 
