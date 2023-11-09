@@ -4,6 +4,19 @@
 
 This is a modern portfolio web application built with Next.js by Ifeanyi Omeata.
 
+## Dev Tools/Stack
+
+- React [https://react.dev/](https://react.dev/)
+- React Headless UI [https://headlessui.com/](https://headlessui.com/)
+- NextJS 13 [https://nextjs.org/docs](https://nextjs.org/docs)
+- TailwindCSS [https://tailwindcss.com/docs/installation](https://tailwindcss.com/docs/installation)
+- Hero Icons [https://heroicons.com/](https://heroicons.com/)
+- Prisma [https://www.prisma.io/](https://www.prisma.io/)
+- PlanetScale MySQL Platform [https://planetscale.com/](https://planetscale.com/)
+- Sanity [https://www.sanity.io/](https://www.sanity.io/)
+
+This is a modern portfolio web application built with Next.js by Ifeanyi Omeata.
+
 ## Project Steps (Tutorial)
 
 <details>
