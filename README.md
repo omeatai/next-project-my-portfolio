@@ -4,7 +4,7 @@
 
 This is a modern portfolio web application built with Next.js by Ifeanyi Omeata.
 
-## Dev Tools/Stack
+## Development Tools/Stack
 
 - React [https://react.dev/](https://react.dev/)
 - React Headless UI [https://headlessui.com/](https://headlessui.com/)
