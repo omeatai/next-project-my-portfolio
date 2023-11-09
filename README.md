@@ -142,21 +142,11 @@ npm i next-themes @headlessui/react @prisma/client next-sanity
 <img width="1247" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/09ab796a-1d03-4d7b-a58a-ea9aba148262">
 <img width="1247" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/c6b6c1a2-bfd6-47fa-a3fc-854ad5715842">
 
-
 # #End</details>
 
+<details>
+<summary>9. Create Dark Mode Switch </summary>
 
+# Create Dark Mode Switch
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+# #End</details>
