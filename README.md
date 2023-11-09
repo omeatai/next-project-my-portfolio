@@ -15,8 +15,6 @@ This is a modern portfolio web application built with Next.js by Ifeanyi Omeata.
 - PlanetScale MySQL Platform [https://planetscale.com/](https://planetscale.com/)
 - Sanity [https://www.sanity.io/](https://www.sanity.io/)
 
-This is a modern portfolio web application built with Next.js by Ifeanyi Omeata.
-
 ## Project Steps (Tutorial)
 
 <details>
