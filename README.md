@@ -194,12 +194,16 @@ npm i next-themes @headlessui/react @prisma/client next-sanity
 
 # Guestbook - Configure Planetscale Database
 
+### Initialise Prisma
+
+```x
+npx prisma init
+```
+
+### Push Prisma Schema Model into Database
+
+```x
+npx prisma db push
+```
+
 # #End</details>
-
-
-
-
-
-
-
-
