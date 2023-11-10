@@ -196,6 +196,10 @@ npm i next-themes @headlessui/react @prisma/client next-sanity
 
 ### [https://github.com/omeatai/next-project-my-portfolio/commit/609b64a9e3a137cb8a117ef2fda27a10a435e0ce](https://github.com/omeatai/next-project-my-portfolio/commit/609b64a9e3a137cb8a117ef2fda27a10a435e0ce)
 
+### [https://app.planetscale.com/](https://app.planetscale.com/)
+
+### [https://www.prisma.io/docs/guides/other/troubleshooting-orm/help-articles/nextjs-prisma-client-dev-practices](https://www.prisma.io/docs/guides/other/troubleshooting-orm/help-articles/nextjs-prisma-client-dev-practices)
+
 ### Initialise Prisma
 
 ```x
