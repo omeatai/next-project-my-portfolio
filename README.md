@@ -218,5 +218,8 @@ npx prisma db push
 <img width="1269" alt="Screenshot 2023-11-09 at 5 00 27 PM" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/ad1f897e-c945-41e9-89c8-db2640eeedab">
 <img width="1124" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/34c56e61-c134-4150-bee4-53bf5d7c4063">
 <img width="1269" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/7144612e-9316-443d-a008-fd8546360ff0">
+<img width="1124" alt="Screenshot 2023-11-09 at 5 16 28 PM" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/9a40a069-fcfa-4f01-8a45-26d210b9ec79">
+<img width="1124" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/d63eb75c-a28c-47ee-bf23-5ec23ef2d117">
+<img width="1124" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/00568c24-2792-4296-979a-cf3cafebf001">
 
 # #End</details>
