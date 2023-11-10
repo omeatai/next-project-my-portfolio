@@ -11,7 +11,7 @@ This is a modern portfolio web application built with Next.js by Ifeanyi Omeata.
 - NextJS 13 [https://nextjs.org/docs](https://nextjs.org/docs)
 - TailwindCSS [https://tailwindcss.com/docs/installation](https://tailwindcss.com/docs/installation)
 - Hero Icons [https://heroicons.com/](https://heroicons.com/)
-- Prisma [https://www.prisma.io/](https://www.prisma.io/)
+- Prisma ORM [https://www.prisma.io/](https://www.prisma.io/)
 - PlanetScale MySQL Platform [https://planetscale.com/](https://planetscale.com/)
 - Sanity [https://www.sanity.io/](https://www.sanity.io/)
 
