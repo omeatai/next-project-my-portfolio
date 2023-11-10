@@ -194,6 +194,8 @@ npm i next-themes @headlessui/react @prisma/client next-sanity
 
 # Guestbook - Configure Planetscale Database
 
+### [https://github.com/omeatai/next-project-my-portfolio/commit/609b64a9e3a137cb8a117ef2fda27a10a435e0ce](https://github.com/omeatai/next-project-my-portfolio/commit/609b64a9e3a137cb8a117ef2fda27a10a435e0ce)
+
 ### Initialise Prisma
 
 ```x
@@ -205,5 +207,16 @@ npx prisma init
 ```x
 npx prisma db push
 ```
+
+<img width="1269" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/edd5382e-4de2-4bdf-ba5b-0604c26ae623">
+<img width="1269" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/9541f27f-df36-4b88-a1f3-e3f2ac83e90c">
+<img width="1269" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/11a37387-8f7b-46fb-885c-63099e5803d9">
+<img width="1269" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/544c842b-acc3-4530-9710-4cd9bf67cf40">
+<img width="1269" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/df7ba484-e35d-424f-a70b-770b56f507e7">
+<img width="1269" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/3a27ece7-5cd1-48a0-b794-1ca3953dcfca">
+<img width="1269" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/5d9a487e-3a85-4978-84b1-50d097ec58b8">
+<img width="1269" alt="Screenshot 2023-11-09 at 5 00 27 PM" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/ad1f897e-c945-41e9-89c8-db2640eeedab">
+<img width="1124" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/34c56e61-c134-4150-bee4-53bf5d7c4063">
+<img width="1269" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/7144612e-9316-443d-a008-fd8546360ff0">
 
 # #End</details>
