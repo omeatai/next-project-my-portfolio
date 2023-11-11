@@ -259,4 +259,9 @@ npx prisma studio
 
 # Projects - Create Page Component
 
+### [https://github.com/omeatai/next-project-my-portfolio/commit/b73a33fdfb5a13d4992944b90e6ab63970774499](https://github.com/omeatai/next-project-my-portfolio/commit/b73a33fdfb5a13d4992944b90e6ab63970774499)
+
+<img width="1126" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/bc51f65d-d9e0-4218-9156-20b361242ca7">
+<img width="1160" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/93cede4a-2e64-4b8b-9c9f-ddfec0374467">
+
 # #End</details>
