@@ -271,6 +271,8 @@ npx prisma studio
 
 # Projects - Configure Sanity Headless CMS
 
+### [https://github.com/omeatai/next-project-my-portfolio/commit/9fa6a96c99050a214f2e610c81f38b2152839e2f](https://github.com/omeatai/next-project-my-portfolio/commit/9fa6a96c99050a214f2e610c81f38b2152839e2f)
+
 ### [https://www.sanity.io/docs/create-a-sanity-project](https://www.sanity.io/docs/create-a-sanity-project)
 
 ### [https://www.sanity.io/manage/personal/projects](https://www.sanity.io/manage/personal/projects)
