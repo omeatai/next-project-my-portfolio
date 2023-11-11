@@ -250,6 +250,8 @@ npx prisma studio
 <img width="1162" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/6826d193-ef50-47dd-8ec5-43ae8c9a1d76">
 <img width="1162" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/1b0edac3-dbed-4bfd-9df8-23fcadd56318">
 <img width="1162" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/cbcd5fb8-0480-4a6f-b4ee-a34afcb5d588">
+<img width="1162" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/9ca81267-2b69-42dd-9de2-fe53fb6db855">
+
 
 
 # #End</details>
