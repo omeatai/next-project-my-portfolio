@@ -265,3 +265,10 @@ npx prisma studio
 <img width="1160" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/93cede4a-2e64-4b8b-9c9f-ddfec0374467">
 
 # #End</details>
+
+<details>
+<summary>14. Projects - Configure Sanity Headless CMS </summary>
+
+# Projects - Configure Sanity Headless CMS
+
+# #End</details>
