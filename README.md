@@ -252,14 +252,11 @@ npx prisma studio
 <img width="1162" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/cbcd5fb8-0480-4a6f-b4ee-a34afcb5d588">
 <img width="1162" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/9ca81267-2b69-42dd-9de2-fe53fb6db855">
 
-
-
 # #End</details>
 
 <details>
-<summary>13. Guestbook - Create Projects Component </summary>
+<summary>13. Projects - Create Page Component </summary>
 
-# Guestbook - Create Projects Component
-
+# Projects - Create Page Component
 
 # #End</details>
