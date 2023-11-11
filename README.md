@@ -315,4 +315,33 @@ npm run dev
 
 # Projects - Create Sanity Contents
 
+# Sanity Query to Fetch Data
+
+```x
+*[
+  _type == "project"
+] {
+  title,
+    overview,
+    link,
+    _id,
+    "imageUrl": image.asset->url
+}
+```
+
+# Install Next Sanity Client
+
+```x
+npm i next-sanity
+```
+
+<img width="651" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/aae40442-31bd-4c34-ab14-6f111c1eb239">
+<img width="1310" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/d522f850-d020-4c03-8ef4-a284ef89d89f">
+<img width="1309" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/b17413e5-d23f-4faa-b560-4359569db3e4">
+<img width="1309" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/9c6ca46a-e0d3-4dbb-a1c6-2383a4eaead6">
+<img width="1309" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/30f8e9af-1c31-437b-a078-42e3cb03ef9b">
+<img width="1309" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/f177b6af-c605-4e7d-8f67-5a613369a702">
+<img width="1309" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/fc825b79-bd4b-4a65-b394-7171967a58af">
+<img width="1309" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/2fde40d0-fcf5-4a84-b0c1-606136407622">
+
 # #End</details>
