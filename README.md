@@ -235,6 +235,12 @@ npx prisma db push
 
 ### [https://github.com/omeatai/next-project-my-portfolio/commit/d7e31fe7964aad693d1d2021c220e145a832adf7](https://github.com/omeatai/next-project-my-portfolio/commit/d7e31fe7964aad693d1d2021c220e145a832adf7)
 
+# View Database in Prisma Studio
+
+```x
+npx prisma studio
+```
+
 <img width="1162" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/7c403c71-ff9e-4ba2-81b2-1af371adec85">
 <img width="1122" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/8a8c9e28-58ed-472f-818b-140d4aae3a6b">
 <img width="1122" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/155a6322-8e8a-47d3-97ac-88bcbed00b41">
@@ -243,6 +249,8 @@ npx prisma db push
 <img width="1122" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/6e4df1f2-24a8-470b-9caf-d219ab309030">
 <img width="1162" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/6826d193-ef50-47dd-8ec5-43ae8c9a1d76">
 <img width="1162" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/1b0edac3-dbed-4bfd-9df8-23fcadd56318">
+<img width="1162" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/cbcd5fb8-0480-4a6f-b4ee-a34afcb5d588">
+
 
 # #End</details>
 
