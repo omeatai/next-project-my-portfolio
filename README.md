@@ -271,4 +271,46 @@ npx prisma studio
 
 # Projects - Configure Sanity Headless CMS
 
+### [https://www.sanity.io/docs/create-a-sanity-project](https://www.sanity.io/docs/create-a-sanity-project)
+
+### [https://www.sanity.io/manage/personal/projects](https://www.sanity.io/manage/personal/projects)
+
+### Install Sanity Studio and Create Project
+
+```x
+npm create sanity@latest -- --template clean --create-project "sanity-portfolio" --dataset production
+```
+
+### Run Sanity Studio
+
+```x
+cd sanity-portfolio
+npm run dev
+```
+
+<img width="840" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/fbc611f0-c530-434a-b7e7-2e27f47e7d0b">
+
+<img width="1255" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/61a37351-eb43-40b9-83fc-afd3ee4a3377">
+
+<img width="1255" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/040607f2-7169-46b7-b89f-4674d1a4671b">
+
+<img width="1255" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/be09f3bf-b3e1-4378-8f10-2f4ce356d484">
+
+<img width="1255" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/2eea7f33-e895-4af0-a969-95aadc973202">
+
+<img width="1126" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/393c3b8e-9400-4eb8-8c1a-60397ae1f81f">
+
+<img width="1126" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/3f0f692e-6373-49e9-b3f7-6d087d7536c7">
+
+<img width="1254" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/1fa30fde-133c-45dd-bbb1-7cc159cd73de">
+
+<img width="1254" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/ad585d8a-ce30-427c-aa9f-7db10f92e3ca">
+
+# #End</details>
+
+<details>
+<summary>15. Projects - Create Sanity Contents </summary>
+
+# Projects - Create Sanity Contents
+
 # #End</details>
