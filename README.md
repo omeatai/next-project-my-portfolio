@@ -345,3 +345,10 @@ npm i next-sanity
 <img width="1309" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/2fde40d0-fcf5-4a84-b0c1-606136407622">
 
 # #End</details>
+
+<details>
+<summary>16. Projects - Complete Projects Page </summary>
+
+# Projects - Complete Projects Page
+
+# #End</details>
