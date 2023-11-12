@@ -367,6 +367,8 @@ npm i next-sanity
 
 # Projects - Add GithubLink and DemoLink Fields to Sanity
 
+### [https://github.com/omeatai/next-project-my-portfolio/commit/0ce9252fdd28211699f8bdb5a987b38c2206105c](https://github.com/omeatai/next-project-my-portfolio/commit/0ce9252fdd28211699f8bdb5a987b38c2206105c)
+
 <img width="1307" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/d3a25781-6241-40f0-9a2c-5acf2b5389f0">
 <img width="1124" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/b53893c9-e2c0-49d2-8d74-25a7dd6da501">
 <img width="1124" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/adeac529-4de7-4020-8d2d-d6b5220cc922">
