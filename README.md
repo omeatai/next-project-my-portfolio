@@ -16,6 +16,10 @@ This is a modern portfolio web application built with Next.js by Ifeanyi Omeata.
 - Sanity [https://www.sanity.io/](https://www.sanity.io/)
 - Vercel [https://vercel.com/](https://vercel.com/)
 
+## Demo
+
+<img width="1381" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/01738b6c-8f14-456b-a25b-d1771ec66698">
+
 ## Project Steps (Tutorial)
 
 <details>
@@ -398,6 +402,8 @@ npm i next-sanity
 <details>
 <summary>19. Deploy Project to Vercel </summary>
 
+# Deploy Project to Vercel
+
 ### [https://github.com/omeatai/next-project-my-portfolio/commit/3f937d2fa59bae608dd3c96922ff3a3e61623133](https://github.com/omeatai/next-project-my-portfolio/commit/3f937d2fa59bae608dd3c96922ff3a3e61623133)
 
 ### [https://github.com/omeatai/next-project-my-portfolio/commit/fba27c77b5cb7241744eadfe8446c38600c29d32](https://github.com/omeatai/next-project-my-portfolio/commit/fba27c77b5cb7241744eadfe8446c38600c29d32)
@@ -412,8 +418,9 @@ npm i next-sanity
 <img width="1247" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/c06abf6c-a3fe-4717-bd29-210a3174564c">
 <img width="1247" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/ba64db03-8283-48ef-b486-f32822d28977">
 <img width="1247" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/986cdf65-2486-44e3-96d3-a708605b9015">
-
-
-# Deploy Project to Vercel
+<img width="1249" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/a4d583e6-a737-4939-a4e6-413c7bd368ea">
+<img width="1381" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/9b05d187-82af-4a23-b1f5-4fb2a16996d5">
+<img width="1381" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/61e79c0d-d8a8-45f1-b335-f7459f17689f">
+<img width="1381" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/51cc8ad3-5525-4b23-a683-269896200ac8">
 
 # #End</details>
