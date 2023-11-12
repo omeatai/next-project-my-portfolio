@@ -31,6 +31,13 @@ export default async function Guestbook() {
             {data.map((entry) => (
               <div key={entry.id} className="w-full text-sm break-words">
                 {entry.message}
+                <div className="text-teal-500 mb-2">
+                  <br></br>
+                  From: {entry.username}
+                  <br></br>
+                  Time: {entry.created_at.toLocaleString()}
+                  <br></br>
+                </div>
               </div>
             ))}
           </div>

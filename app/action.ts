@@ -9,9 +9,11 @@ export async function postEntry(formData: FormData) {
   const data = await prisma.guestbook.create({
     data: {
       message: formData.get("entry") as string,
-      username: "Peter",
+      username: formData.get("entryName") as string,
     },
   });
 
   revalidatePath("/guestbook");
 }
+
+//

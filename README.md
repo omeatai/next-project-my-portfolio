@@ -15,7 +15,7 @@ This is a modern portfolio web application built with Next.js by Ifeanyi Omeata.
 - PlanetScale MySQL Platform [https://planetscale.com/](https://planetscale.com/)
 - Sanity [https://www.sanity.io/](https://www.sanity.io/)
 - Vercel [https://vercel.com/](https://vercel.com/)
-  
+
 ## Project Steps (Tutorial)
 
 <details>
@@ -377,5 +377,12 @@ npm i next-sanity
 <img width="1307" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/48371cd9-789c-418a-aff7-43464b4d621d">
 <img width="1307" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/e12a0b2e-f675-49b6-a056-2419103b11ba">
 <img width="1307" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/e88e85ed-2a41-4d77-a050-272c70930a77">
+
+# #End</details>
+
+<details>
+<summary>18. Guestbook - Add Username and Entry Date Fields to Prisma Guestbook DB  </summary>
+
+# Guestbook - Add Username and Entry Date Fields to Prisma Guestbook DB
 
 # #End</details>
