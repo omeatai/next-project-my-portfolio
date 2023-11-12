@@ -376,5 +376,6 @@ npm i next-sanity
 <img width="1307" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/18f576bb-2f36-4108-878e-0c9951bd3963">
 <img width="1307" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/48371cd9-789c-418a-aff7-43464b4d621d">
 <img width="1307" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/e12a0b2e-f675-49b6-a056-2419103b11ba">
+<img width="1307" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/e88e85ed-2a41-4d77-a050-272c70930a77">
 
 # #End</details>
