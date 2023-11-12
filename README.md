@@ -426,3 +426,20 @@ npm i next-sanity
 <img width="1381" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/51cc8ad3-5525-4b23-a683-269896200ac8">
 
 # #End</details>
+
+<details>
+<summary>19. Deploy Sanity to Web </summary>
+
+# Deploy Sanity to Web 
+
+### [https://my-portfolio-omeatai.sanity.studio/](https://my-portfolio-omeatai.sanity.studio/)
+
+```x
+cd sanity-portfolio
+npm run deploy
+```
+
+<img width="1122" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/e18fd949-5392-48e5-9161-594ede024e84">
+
+
+# #End</details>
