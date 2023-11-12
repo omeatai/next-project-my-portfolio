@@ -400,8 +400,12 @@ npm i next-sanity
 
 ### [https://github.com/omeatai/next-project-my-portfolio/commit/3f937d2fa59bae608dd3c96922ff3a3e61623133](https://github.com/omeatai/next-project-my-portfolio/commit/3f937d2fa59bae608dd3c96922ff3a3e61623133)
 
+### [https://github.com/omeatai/next-project-my-portfolio/commit/fba27c77b5cb7241744eadfe8446c38600c29d32](https://github.com/omeatai/next-project-my-portfolio/commit/fba27c77b5cb7241744eadfe8446c38600c29d32)
+
 <img width="1247" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/593fc4c0-4c14-4b27-a934-10bc0789a320">
 <img width="1247" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/c06abf6c-a3fe-4717-bd29-210a3174564c">
+<img width="1124" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/f652bae1-f0ec-42a7-8168-4902926e3645">
+<img width="1124" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/bde99e33-4dd2-4004-bc38-9fa09afbef72">
 <img width="1247" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/ba64db03-8283-48ef-b486-f32822d28977">
 <img width="1247" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/986cdf65-2486-44e3-96d3-a708605b9015">
 
