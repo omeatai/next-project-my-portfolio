@@ -22,7 +22,7 @@ export default function Home() {
               Ifeanyi Omeata
             </h3>
             <p className="text-gray-500 dark:text-gray-300 text-center">
-              I am a Software Engineer
+              Software Engineer
             </p>
 
             <div className="flex space-x-5 pt-6">
