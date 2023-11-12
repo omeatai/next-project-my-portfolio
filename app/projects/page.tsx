@@ -8,6 +8,8 @@ interface Data {
   title: string;
   overview: string;
   link: string;
+  github: string;
+  demo: string;
   _id: string;
   imageUrl: string;
 }
@@ -15,9 +17,11 @@ interface Data {
 async function getProjects() {
   const query = `*[_type == "project"] | order(_createdAt desc) {
     title,
-      overview,
-      link,
-      _id,
+    overview,
+    link,
+    github,
+    demo,
+    _id,
       "imageUrl": image.asset->url
   }`;
 
@@ -39,13 +43,13 @@ export default async function Projects() {
         </h1>
       </div>
 
-      <div className="grid gap-y-8 sm:gap-6  sm:grid-cols-2 md:gap-6 lg:grid-cols-3 lg:gap-10 pt-8 mb-8">
+      <div className="grid gap-y-8 sm:gap-6 sm:grid-cols-2 md:gap-6 lg:grid-cols-3 lg:gap-10 pt-8 mb-12">
         {data.map((project) => (
           <article
             key={project._id}
-            className="overflow-hidden dark:border-zinc-600 rounded-lg border-4 border-zinc-600 shadow-lg bg-white dark:bg-black dark:shadow-gray-700 shadow-teal-100"
+            className="overflow-hidden shadow-lg bg-white dark:bg-black dark:shadow-gray-700 shadow-gray-700 border border-2 rounded-lg border-black"
           >
-            <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-125 duration-300 h-56 w-full border border-2 border-zinc-600 dark:border-black relative">
+            <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-125 duration-300 h-56 w-full border border-2 border-black dark:border-black relative">
               <a href={project.link} target="_blank">
                 <Image
                   fill
@@ -82,7 +86,7 @@ export default async function Projects() {
                   />
                 </a>
                 <a
-                  href={project.link}
+                  href={project.github}
                   target="_blank"
                   className="group mt-4 inline-flex items-center gap-1 text-sm font-medium text-zinc-600"
                 >
@@ -95,7 +99,7 @@ export default async function Projects() {
                   />
                 </a>
                 <a
-                  href={project.link}
+                  href={project.demo}
                   target="_blank"
                   className="group mt-4 inline-flex items-center gap-1 text-sm font-medium text-blue-500"
                 >
