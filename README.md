@@ -440,6 +440,7 @@ npm run deploy
 ```
 
 <img width="1122" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/e18fd949-5392-48e5-9161-594ede024e84">
-
+<img width="1199" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/50c20518-2bf1-4ec8-9ede-b9b8a4cbf491">
+<img width="1199" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/4478a1d5-79c4-4048-84be-4457e200388e">
 
 # #End</details>
