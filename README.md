@@ -315,6 +315,8 @@ npm run dev
 
 # Projects - Create Sanity Contents
 
+### [https://github.com/omeatai/next-project-my-portfolio/commit/20bbb88dd00b1423806974a2c3d6de59b7e08e63](https://github.com/omeatai/next-project-my-portfolio/commit/20bbb88dd00b1423806974a2c3d6de59b7e08e63)
+
 # Sanity Query to Fetch Data
 
 ```x
@@ -350,5 +352,19 @@ npm i next-sanity
 <summary>16. Projects - Complete Projects Page Component</summary>
 
 # Projects - Complete Projects Page Component
+
+### [https://github.com/omeatai/next-project-my-portfolio/commit/080d14c8e1c029effd2f60391ab6a12f98c8b7a8](https://github.com/omeatai/next-project-my-portfolio/commit/080d14c8e1c029effd2f60391ab6a12f98c8b7a8)
+
+<img width="1124" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/296a303f-22a3-4c8d-93be-9169b2a04a02">
+<img width="1124" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/214c1e28-eea4-4c47-b892-d14d225cef61">
+<img width="1307" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/0bcee48c-723e-4d8f-8fe2-42f71aefd7ee">
+<img width="1307" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/4eb0a96f-8285-4678-9652-3f914c346e83">
+
+# #End</details>
+
+<details>
+<summary>17. Projects - Add GithubLink and DemoLink Fields to Sanity </summary>
+
+# Projects - Add GithubLink and DemoLink Fields to Sanity 
 
 # #End</details>
