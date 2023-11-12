@@ -14,7 +14,8 @@ This is a modern portfolio web application built with Next.js by Ifeanyi Omeata.
 - Prisma ORM [https://www.prisma.io/](https://www.prisma.io/)
 - PlanetScale MySQL Platform [https://planetscale.com/](https://planetscale.com/)
 - Sanity [https://www.sanity.io/](https://www.sanity.io/)
-
+- Vercel [https://vercel.com/](https://vercel.com/)
+  
 ## Project Steps (Tutorial)
 
 <details>
