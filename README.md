@@ -428,7 +428,7 @@ npm i next-sanity
 # #End</details>
 
 <details>
-<summary>19. Deploy Sanity to Web </summary>
+<summary>20. Deploy Sanity to Web </summary>
 
 # Deploy Sanity to Web 
 
