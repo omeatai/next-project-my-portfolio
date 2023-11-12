@@ -347,8 +347,8 @@ npm i next-sanity
 # #End</details>
 
 <details>
-<summary>16. Projects - Complete Projects Page </summary>
+<summary>16. Projects - Complete Projects Page Component</summary>
 
-# Projects - Complete Projects Page
+# Projects - Complete Projects Page Component
 
 # #End</details>
