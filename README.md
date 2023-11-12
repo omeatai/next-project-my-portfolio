@@ -18,6 +18,8 @@ This is a modern portfolio web application built with Next.js by Ifeanyi Omeata.
 
 ## Demo
 
+### [https://next-project-my-portfolio-omeatai.vercel.app/](https://next-project-my-portfolio-omeatai.vercel.app/)
+
 <img width="1381" alt="image" src="https://github.com/omeatai/next-project-my-portfolio/assets/32337103/01738b6c-8f14-456b-a25b-d1771ec66698">
 
 ## Project Steps (Tutorial)
