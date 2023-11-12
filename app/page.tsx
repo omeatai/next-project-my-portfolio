@@ -67,7 +67,7 @@ export default function Home() {
 
           <div className="prose max-w-none prose-lg pt-8 pb-7 dark:prose-invert xl:col-span-2">
             <p>
-              Hi! I'm Ifeanyi, a skilled Software Engineer and Full-Stack
+              Hi! I am Ifeanyi, a skilled Software Engineer and Full-Stack
               Developer based here in the beautiful province of Alberta, Canada.
               With a track record of over 6 years in the field, I excel in
               creating resilient, scalable, and user-centric web, mobile and
@@ -96,7 +96,7 @@ export default function Home() {
 
             <p>
               My academic journey led me to the University of Greenwich in
-              London, UK, where I achieved a master's degree in Computer Network
+              London, UK, where I achieved a masters degree in Computer Network
               Security. This academic foundation equips me with a profound
               understanding of security challenges in the digital landscape,
               making me a valuable asset within any Team in ensuring the
@@ -106,21 +106,21 @@ export default function Home() {
             </p>
 
             <p>
-              Beyond coding, I'm a passionate football enthusiast and a devoted
+              Beyond coding, I am a passionate football enthusiast and a devoted
               reader and researcher. Viewing the world through the lens of
               sports and research sharpens my creativity and problem-solving
               skills, enriching my approach to development.
             </p>
 
             <p>
-              If you're searching for a dedicated developer who can transform
+              If you are searching for a dedicated developer who can transform
               your vision into reality and build solutions that not only
-              function flawlessly but also captivate clients, you've found the
+              function flawlessly but also captivate clients, you have found the
               perfect match.
             </p>
             <p className="flex items-center">
               <span className="mr-2">
-                Let's join forces and breathe life into your projects!
+                Lets join forces and breathe life into your projects!
               </span>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
