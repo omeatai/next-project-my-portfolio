@@ -4,6 +4,14 @@
 
 This is a modern portfolio web application built with Next.js by Ifeanyi Omeata.
 
+The Portfolio Application is a dynamic platform that serves as a showcase for my professional profile and projects. The home page offers a succinct summary of my profile, providing visitors with an overview of my skills, expertise, and background. This serves as an introduction to the diverse range of content available on the subsequent pages.
+
+On the second page, the application features a guestbook where visitors can engage by entering their name and leaving messages in designated input boxes. These comments are dynamically listed on the page, creating an interactive space for visitors to share their thoughts and feedback.
+
+The third page is dedicated to showcasing my projects in a visually appealing manner. Each project is presented as a card, featuring a zoomed-in picture for a closer look, along with essential details such as the project title, a concise summary, and prominent buttons for YouTube, Github, and Demo links. This layout provides visitors with a quick and comprehensive understanding of the projects I have undertaken. The YouTube and Github buttons offer easy access to additional resources, while the Demo button allows visitors to explore live demonstrations of the projects.
+
+Overall, the Portfolio Application is designed to not only present a professional summary but also to engage and inform visitors through an interactive guestbook and a visually captivating display of my projects.
+
 ## Development Tools/Stack
 
 - React [https://react.dev/](https://react.dev/)
